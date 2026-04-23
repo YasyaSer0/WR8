@@ -263,3 +263,22 @@ cmatrix
 
 Пояснення:
 На екрані відображається анімація “падаючих символів”, як у фільмі Matrix.
+
+### 3.4 Кольоровий текст (lolcat + figlet)
+```bash
+sudo apt install lolcat figlet
+echo "Hello Yaroslava" | lolcat
+figlet "Linux" | lolcat
+figlet "Yaroslava" | lolcat
+```
+<img width="914" height="682" alt="image" src="https://github.com/user-attachments/assets/ae6be3e8-2814-4d38-b245-6aa0412792a2" />
+
+<img width="880" height="632" alt="image" src="https://github.com/user-attachments/assets/1340fff7-7a16-4280-9f19-88ed3d8b370d" />
+
+<img width="616" height="48" alt="image" src="https://github.com/user-attachments/assets/e0513d93-6b45-41a1-bc18-1b47671a388f" />
+
+<img width="573" height="342" alt="image" src="https://github.com/user-attachments/assets/60d0856d-ee94-4f33-a832-2fb54ae2f8a3" />
+
+Пояснення:
+- figlet створює великий ASCII-текст, а lolcat додає кольори.
+- Використання | демонструє передачу даних між командами.
