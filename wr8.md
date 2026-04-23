@@ -134,6 +134,10 @@ crontab -e
 
 * * * * * echo "TEST CRON" >> /home/yaroslava/cron_test.txt
 
+<img width="848" height="626" alt="image" src="https://github.com/user-attachments/assets/25021ce0-87b9-453e-b0c3-05bc4b237671" />
+
+<img width="613" height="236" alt="image" src="https://github.com/user-attachments/assets/66ad19ff-00fa-4479-a60d-f67491e80e4e" />
+
 Пояснення:
 Команда дозволяє автоматично виконувати дію кожну хвилину — у даному випадку запис у файл.
 
@@ -145,6 +149,12 @@ crontab -e
 
 wget https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg -O image.jpg
 feh image.jpg
+
+<img width="817" height="347" alt="image" src="https://github.com/user-attachments/assets/51641989-6978-4aff-b599-fe9116197da2" />
+
+<img width="414" height="33" alt="image" src="https://github.com/user-attachments/assets/92bafc7c-96a7-4f6a-81d9-71b5457ee246" />
+
+<img width="902" height="861" alt="image" src="https://github.com/user-attachments/assets/747d10e8-98cc-4018-8dba-6dd0f205812d" />
 
 Пояснення:
 Програма відкриває зображення у мінімальному вікні без графічного редактора.
