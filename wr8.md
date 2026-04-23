@@ -159,6 +159,11 @@ feh image.jpg
 sudo apt install nano
 nano file.txt
 
+<img width="669" height="211" alt="image" src="https://github.com/user-attachments/assets/bcdc58d5-7934-4c17-8b7d-de585bf686c4" />
+
+<img width="910" height="163" alt="image" src="https://github.com/user-attachments/assets/053b2d49-f93e-4ad9-aab0-224d7046c1db" />
+
+
 Пояснення:
 Редактор дозволяє вводити, змінювати та видаляти текст у файлі.
 
@@ -166,9 +171,14 @@ nano file.txt
 
 cat file.txt
 
+<img width="442" height="143" alt="image" src="https://github.com/user-attachments/assets/64c3147c-c480-4a12-bd9d-116758c2359d" />
+
 Видалення файлу:
 
 rm file.txt
+
+<img width="435" height="103" alt="image" src="https://github.com/user-attachments/assets/2cf992a8-1bb9-476a-8fce-a64c948d64b3" />
+
 ### 2.2 Моніторинг системи
 
 Для моніторингу процесів та ресурсів системи використовується htop.
@@ -178,12 +188,19 @@ rm file.txt
 sudo apt install htop
 htop
 
+<img width="890" height="494" alt="image" src="https://github.com/user-attachments/assets/01170f9e-cccc-4882-b9e4-ce3ce2f175ec" />
+
+<img width="932" height="756" alt="image" src="https://github.com/user-attachments/assets/b33ed016-c428-4761-8151-c1a0c4914412" />
+
 Пояснення:
 Програма відображає всі процеси системи, використання CPU, RAM та дозволяє керувати процесами (завершення, пошук тощо).
 
 Альтернатива:
 
 top
+
+<img width="902" height="727" alt="image" src="https://github.com/user-attachments/assets/f0a30c21-d1a1-48d4-ac1c-e367aaebecad" />
+
 ## Пункт 3: Пасхалки Linux (розважальні команди)
 
 У Linux існують додаткові утиліти, які не є критично важливими для роботи системи, але демонструють її можливості у розважальному форматі.
@@ -199,12 +216,22 @@ sl
 sudo apt install cowsay
 cowsay "Hello Yaroslava"
 
+<img width="892" height="569" alt="image" src="https://github.com/user-attachments/assets/e9f43cfb-cfa5-4faf-ad52-dbdf055c05a0" />
+
+<img width="564" height="242" alt="image" src="https://github.com/user-attachments/assets/db60b17c-4339-4504-9158-50433d3ad1e0" />
+
 Пояснення:
 Програма виводить текст у вигляді “мовлення” ASCII-корови.
 
-### 3.3 Matrix-ефект (заміна Star Wars)
+### 3.3 Matrix-ефект 
 sudo apt install cmatrix
 cmatrix
+
+<img width="874" height="556" alt="image" src="https://github.com/user-attachments/assets/df8b32d4-aeb5-42f5-9b62-7faa79875c05" />
+
+<img width="370" height="40" alt="image" src="https://github.com/user-attachments/assets/327c91eb-7d24-4987-8845-7918f3210108" />
+
+<img width="918" height="749" alt="image" src="https://github.com/user-attachments/assets/0b2baba6-3fb6-4459-8ebd-2dc847e9169f" />
 
 Пояснення:
 На екрані відображається анімація “падаючих символів”, як у фільмі Matrix.
