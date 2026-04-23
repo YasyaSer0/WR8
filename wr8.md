@@ -69,7 +69,6 @@ lynx https://wikipedia.org
 Пояснення:
 Браузер завантажує сторінку та відображає її у терміналі без графічних елементів.
 
-
 ### 1.3 Перегляд електронної пошти в терміналі
 
 Для роботи з електронною поштою використовуються пакети mailutils та mutt.
@@ -115,12 +114,12 @@ cmus
 Команда:
 ```bash
 sudo apt install transmission-cli
-transmission-cli "magnet:?xt=urn:btih:..."
+transmission-cli "magnet:?xt=urn:btih:6a3d3b5b5c3c1d3f5c6b6e5d4f3a2b1c0d9e8f7a""
 ```
 
-<img width="826" height="534" alt="image" src="https://github.com/user-attachments/assets/b841a10a-c3db-4b1e-b573-cc719f5ed7ba" />
+<img width="679" height="169" alt="image" src="https://github.com/user-attachments/assets/fb3e9c73-fb79-46f9-a0aa-087360fbee6e" />
 
-<img width="824" height="534" alt="image" src="https://github.com/user-attachments/assets/39ea3163-bbdc-441b-93b3-467ce04b3d7e" />
+<img width="888" height="624" alt="image" src="https://github.com/user-attachments/assets/23f15d68-2e18-4550-8160-752c631659d4" />
 
 Пояснення:
 Після запуску клієнт підключається до tracker-ів та peer-ів і починає завантаження даних.
