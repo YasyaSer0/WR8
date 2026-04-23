@@ -81,6 +81,12 @@ mutt
 ```
 <img width="830" height="522" alt="image" src="https://github.com/user-attachments/assets/d465e44c-0ae1-4816-a332-132db1b47dc0" />
 
+<img width="825" height="107" alt="image" src="https://github.com/user-attachments/assets/a9e3b962-617b-4a57-82dc-d20f32bc322a" />
+
+<img width="815" height="558" alt="image" src="https://github.com/user-attachments/assets/75419ee3-691c-4d63-be85-5b148f4b7f2a" />
+
+<img width="502" height="232" alt="image" src="https://github.com/user-attachments/assets/d2ade4df-3ff1-4d5f-af4c-7f6fa13525fe" />
+
 Пояснення:
 Команда mail дозволяє надсилати листи, а mutt - переглядати та керувати електронною поштою в терміналі.
 
