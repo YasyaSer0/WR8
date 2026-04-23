@@ -38,9 +38,10 @@
 Для роботи з файловою системою в терміналі використовується консольний файловий менеджер mc (Midnight Commander). Він дозволяє переглядати, копіювати, переміщувати та видаляти файли у зручному текстовому інтерфейсі.
 
 Встановлення та запуск:
-
+```bash
 sudo apt install mc
 mc
+```
 
 <img width="829" height="571" alt="image" src="https://github.com/user-attachments/assets/b5e09443-74eb-47b2-b43a-316d8fa4bf10" />
 
@@ -54,10 +55,10 @@ mc
 Для перегляду веб-сторінок використовується текстовий браузер lynx. Він відображає сайти у вигляді тексту та дозволяє навігацію за допомогою клавіатури.
 
 Команди:
- 
+```bash
 sudo apt install lynx
 lynx https://wikipedia.org
-
+```
 
 <img width="668" height="234" alt="image" src="https://github.com/user-attachments/assets/b7f1f9c5-b8b8-4524-a3cd-77c3f581f2c3" />
 
@@ -74,11 +75,11 @@ lynx https://wikipedia.org
 Для роботи з електронною поштою використовуються пакети mailutils та mutt.
 
 Команди:
-
+```bash
 sudo apt install mailutils mutt
 echo "Hello from terminal" | mail -s "Test" yaroslava
 mutt
-
+```
 <img width="830" height="522" alt="image" src="https://github.com/user-attachments/assets/d465e44c-0ae1-4816-a332-132db1b47dc0" />
 
 Пояснення:
@@ -89,9 +90,10 @@ mutt
 Для відтворення аудіофайлів використовується консольний плеєр cmus.
 
 Команда:
-
+ ```bash
 sudo apt install cmus
 cmus
+```
 
 <img width="817" height="537" alt="image" src="https://github.com/user-attachments/assets/5adc1da1-62a2-4b9b-bf2a-d0248abc197b" />
 
@@ -111,9 +113,10 @@ cmus
 Для роботи з торрентами використовується transmission-cli. Він дозволяє завантажувати файли через magnet-посилання або .torrent файли.
 
 Команда:
-
+```bash
 sudo apt install transmission-cli
 transmission-cli "magnet:?xt=urn:btih:..."
+```
 
 <img width="826" height="534" alt="image" src="https://github.com/user-attachments/assets/b841a10a-c3db-4b1e-b573-cc719f5ed7ba" />
 
@@ -127,12 +130,13 @@ transmission-cli "magnet:?xt=urn:btih:..."
 Для автоматизації задач використовується планувальник cron.
 
 Команда:
-
+```bash
 crontab -e
-
+```
 Доданий запис:
-
+```bash
 * * * * * echo "TEST CRON" >> /home/yaroslava/cron_test.txt
+```
 
 <img width="848" height="626" alt="image" src="https://github.com/user-attachments/assets/25021ce0-87b9-453e-b0c3-05bc4b237671" />
 
@@ -146,9 +150,10 @@ crontab -e
 Для перегляду зображень використовується програма feh.
 
 Команди:
-
+```bash
 wget https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg -O image.jpg
 feh image.jpg
+```
 
 <img width="817" height="347" alt="image" src="https://github.com/user-attachments/assets/51641989-6978-4aff-b599-fe9116197da2" />
 
@@ -165,27 +170,29 @@ feh image.jpg
 Для створення та редагування текстових файлів використовується редактор nano.
 
 Команди:
-
+```bash
 sudo apt install nano
 nano file.txt
+```
 
 <img width="669" height="211" alt="image" src="https://github.com/user-attachments/assets/bcdc58d5-7934-4c17-8b7d-de585bf686c4" />
 
 <img width="910" height="163" alt="image" src="https://github.com/user-attachments/assets/053b2d49-f93e-4ad9-aab0-224d7046c1db" />
 
-
 Пояснення:
 Редактор дозволяє вводити, змінювати та видаляти текст у файлі.
 
 Перевірка:
-
+```bash
 cat file.txt
+```
 
 <img width="442" height="143" alt="image" src="https://github.com/user-attachments/assets/64c3147c-c480-4a12-bd9d-116758c2359d" />
 
 Видалення файлу:
-
+```bash
 rm file.txt
+```
 
 <img width="435" height="103" alt="image" src="https://github.com/user-attachments/assets/2cf992a8-1bb9-476a-8fce-a64c948d64b3" />
 
@@ -194,9 +201,10 @@ rm file.txt
 Для моніторингу процесів та ресурсів системи використовується htop.
 
 Команда:
-
+```bash
 sudo apt install htop
 htop
+```
 
 <img width="890" height="494" alt="image" src="https://github.com/user-attachments/assets/01170f9e-cccc-4882-b9e4-ce3ce2f175ec" />
 
@@ -207,7 +215,9 @@ htop
 
 Альтернатива:
 
+```bash
 top
+```
 
 <img width="902" height="727" alt="image" src="https://github.com/user-attachments/assets/f0a30c21-d1a1-48d4-ac1c-e367aaebecad" />
 
@@ -216,15 +226,21 @@ top
 У Linux існують додаткові утиліти, які не є критично важливими для роботи системи, але демонструють її можливості у розважальному форматі.
 
 ### 3.1 Паровоз (sl)
+
+```bash
 sudo apt install sl
 sl
+```
 
 Пояснення:
 На екрані з’являється анімація паровоза. Це “жартівлива” утиліта, яка реагує на часту помилку введення ls як sl.
 
 ### 3.2 Корова, що говорить (cowsay)
+
+```bash
 sudo apt install cowsay
 cowsay "Hello Yaroslava"
+```
 
 <img width="892" height="569" alt="image" src="https://github.com/user-attachments/assets/e9f43cfb-cfa5-4faf-ad52-dbdf055c05a0" />
 
@@ -234,8 +250,11 @@ cowsay "Hello Yaroslava"
 Програма виводить текст у вигляді “мовлення” ASCII-корови.
 
 ### 3.3 Matrix-ефект 
+
+```bash
 sudo apt install cmatrix
 cmatrix
+```
 
 <img width="874" height="556" alt="image" src="https://github.com/user-attachments/assets/df8b32d4-aeb5-42f5-9b62-7faa79875c05" />
 
