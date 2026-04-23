@@ -82,7 +82,7 @@ mutt
 <img width="830" height="522" alt="image" src="https://github.com/user-attachments/assets/d465e44c-0ae1-4816-a332-132db1b47dc0" />
 
 Пояснення:
-Команда mail дозволяє надсилати листи, а mutt — переглядати та керувати електронною поштою в терміналі.
+Команда mail дозволяє надсилати листи, а mutt - переглядати та керувати електронною поштою в терміналі.
 
 ### 1.4 Відтворення музики через термінал
 
@@ -142,7 +142,7 @@ crontab -e
 <img width="613" height="236" alt="image" src="https://github.com/user-attachments/assets/66ad19ff-00fa-4479-a60d-f67491e80e4e" />
 
 Пояснення:
-Команда дозволяє автоматично виконувати дію кожну хвилину — у даному випадку запис у файл.
+Команда дозволяє автоматично виконувати дію кожну хвилину - у даному випадку запис у файл.
 
 ### 1.7 Перегляд зображень у терміналі
 
@@ -282,3 +282,13 @@ figlet "Yaroslava" | lolcat
 Пояснення:
 - figlet створює великий ASCII-текст, а lolcat додає кольори.
 - Використання | демонструє передачу даних між командами.
+
+## Conclusion
+
+In this work, the capabilities of the Linux operating system without a graphical user interface were explored. It was demonstrated that most common tasks, such as file management, web browsing, email handling, multimedia playback, torrent downloading, task scheduling, and image viewing, can be successfully performed using only terminal-based tools.
+
+Additionally, essential administrative utilities for text editing and system monitoring were studied, showing how efficiently system resources and processes can be managed from the command line.
+
+Finally, several interactive and entertaining terminal applications were tested, highlighting the flexibility and versatility of the Linux environment.
+
+Overall, this work confirms that the Linux terminal provides powerful and efficient tools for both practical system administration and user interaction, even in resource-limited environments.
