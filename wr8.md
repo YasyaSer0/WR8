@@ -45,6 +45,8 @@ mc
 
 <img width="829" height="571" alt="image" src="https://github.com/user-attachments/assets/b5e09443-74eb-47b2-b43a-316d8fa4bf10" />
 
+---
+
 <img width="821" height="585" alt="image" src="https://github.com/user-attachments/assets/49eb665e-e4aa-42b0-9d9d-9adf6e9b2c60" />
 
 Пояснення:
@@ -62,7 +64,11 @@ lynx https://wikipedia.org
 
 <img width="668" height="234" alt="image" src="https://github.com/user-attachments/assets/b7f1f9c5-b8b8-4524-a3cd-77c3f581f2c3" />
 
+---
+
 <img width="795" height="537" alt="image" src="https://github.com/user-attachments/assets/a1791719-3911-4872-974f-b0917f889abf" />
+
+---
 
 <img width="808" height="554" alt="image" src="https://github.com/user-attachments/assets/6784cd1f-cb44-4e7b-81d3-5645280f4a88" />
 
@@ -81,9 +87,15 @@ mutt
 ```
 <img width="830" height="522" alt="image" src="https://github.com/user-attachments/assets/d465e44c-0ae1-4816-a332-132db1b47dc0" />
 
+---
+
 <img width="825" height="107" alt="image" src="https://github.com/user-attachments/assets/a9e3b962-617b-4a57-82dc-d20f32bc322a" />
 
+---
+
 <img width="815" height="558" alt="image" src="https://github.com/user-attachments/assets/75419ee3-691c-4d63-be85-5b148f4b7f2a" />
+
+---
 
 <img width="502" height="232" alt="image" src="https://github.com/user-attachments/assets/d2ade4df-3ff1-4d5f-af4c-7f6fa13525fe" />
 
@@ -102,11 +114,19 @@ cmus
 
 <img width="817" height="537" alt="image" src="https://github.com/user-attachments/assets/5adc1da1-62a2-4b9b-bf2a-d0248abc197b" />
 
+---
+
 <img width="812" height="597" alt="image" src="https://github.com/user-attachments/assets/7867c897-05d0-4a49-8065-c2fda157a976" />
+
+---
 
 <img width="814" height="363" alt="image" src="https://github.com/user-attachments/assets/eba1a0be-95cb-4019-bf47-1bd74a1907c0" />
 
+---
+
 <img width="833" height="571" alt="image" src="https://github.com/user-attachments/assets/3c400378-a15f-43a1-8c7b-4e5a9b768852" />
+
+---
 
 <img width="875" height="125" alt="image" src="https://github.com/user-attachments/assets/c8a49073-f01c-4084-bcf1-cc76aa5284e7" />
 
@@ -124,6 +144,8 @@ transmission-cli "magnet:?xt=urn:btih:6a3d3b5b5c3c1d3f5c6b6e5d4f3a2b1c0d9e8f7a""
 ```
 
 <img width="679" height="169" alt="image" src="https://github.com/user-attachments/assets/fb3e9c73-fb79-46f9-a0aa-087360fbee6e" />
+
+---
 
 <img width="888" height="624" alt="image" src="https://github.com/user-attachments/assets/23f15d68-2e18-4550-8160-752c631659d4" />
 
@@ -145,6 +167,8 @@ crontab -e
 
 <img width="848" height="626" alt="image" src="https://github.com/user-attachments/assets/25021ce0-87b9-453e-b0c3-05bc4b237671" />
 
+---
+
 <img width="613" height="236" alt="image" src="https://github.com/user-attachments/assets/66ad19ff-00fa-4479-a60d-f67491e80e4e" />
 
 Пояснення:
@@ -162,7 +186,11 @@ feh image.jpg
 
 <img width="817" height="347" alt="image" src="https://github.com/user-attachments/assets/51641989-6978-4aff-b599-fe9116197da2" />
 
+---
+
 <img width="414" height="33" alt="image" src="https://github.com/user-attachments/assets/92bafc7c-96a7-4f6a-81d9-71b5457ee246" />
+
+---
 
 <img width="902" height="861" alt="image" src="https://github.com/user-attachments/assets/747d10e8-98cc-4018-8dba-6dd0f205812d" />
 
@@ -181,6 +209,8 @@ nano file.txt
 ```
 
 <img width="669" height="211" alt="image" src="https://github.com/user-attachments/assets/bcdc58d5-7934-4c17-8b7d-de585bf686c4" />
+
+---
 
 <img width="910" height="163" alt="image" src="https://github.com/user-attachments/assets/053b2d49-f93e-4ad9-aab0-224d7046c1db" />
 
@@ -212,6 +242,8 @@ htop
 ```
 
 <img width="890" height="494" alt="image" src="https://github.com/user-attachments/assets/01170f9e-cccc-4882-b9e4-ce3ce2f175ec" />
+
+---
 
 <img width="932" height="756" alt="image" src="https://github.com/user-attachments/assets/b33ed016-c428-4761-8151-c1a0c4914412" />
 
@@ -249,6 +281,8 @@ cowsay "Hello Yaroslava"
 
 <img width="892" height="569" alt="image" src="https://github.com/user-attachments/assets/e9f43cfb-cfa5-4faf-ad52-dbdf055c05a0" />
 
+---
+
 <img width="564" height="242" alt="image" src="https://github.com/user-attachments/assets/db60b17c-4339-4504-9158-50433d3ad1e0" />
 
 Пояснення:
@@ -263,7 +297,11 @@ cmatrix
 
 <img width="874" height="556" alt="image" src="https://github.com/user-attachments/assets/df8b32d4-aeb5-42f5-9b62-7faa79875c05" />
 
+---
+
 <img width="370" height="40" alt="image" src="https://github.com/user-attachments/assets/327c91eb-7d24-4987-8845-7918f3210108" />
+
+---
 
 <img width="918" height="749" alt="image" src="https://github.com/user-attachments/assets/0b2baba6-3fb6-4459-8ebd-2dc847e9169f" />
 
@@ -279,9 +317,15 @@ figlet "Yaroslava" | lolcat
 ```
 <img width="914" height="682" alt="image" src="https://github.com/user-attachments/assets/ae6be3e8-2814-4d38-b245-6aa0412792a2" />
 
+---
+
 <img width="880" height="632" alt="image" src="https://github.com/user-attachments/assets/1340fff7-7a16-4280-9f19-88ed3d8b370d" />
 
+---
+
 <img width="616" height="48" alt="image" src="https://github.com/user-attachments/assets/e0513d93-6b45-41a1-bc18-1b47671a388f" />
+
+---
 
 <img width="573" height="342" alt="image" src="https://github.com/user-attachments/assets/60d0856d-ee94-4f33-a832-2fb54ae2f8a3" />
 
